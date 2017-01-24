@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Fine Weather</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello User!!</string>
+    <string name="slide_1_desc">This is the easiest way to get the weather update!</string>
+
+    <string name="slide_2_title">Even Forecasts!!</string>
+    <string name="slide_2_desc">Predict the weather and enjoy it!</string>
+
+</resources>
